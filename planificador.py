@@ -18,7 +18,7 @@ from email import encoders
 
 email = '' # Correo desde el que se envía
 password = '' # Contraseña del correo desde el que se envía
-send_to_email = # Correo al que se envía
+send_to_email = '' # Correo al que se envía
 
 # Variables básicas
 
